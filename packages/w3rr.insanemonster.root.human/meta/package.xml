@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>The Scourge of Lordaeron Assets</DisplayName>
+    <Description>Install the asset required by Warcraft III Re-Reforged Human campaign. Install this is you plan to play Warcraft III Re-Reforged: The Scourge of Lordaeron.</Description>
+    <Version>1.0</Version>
+    <ReleaseDate>2024-04-15</ReleaseDate>
+	<Default>true</Default>
+	<SortingPriority>70</SortingPriority>
+	<Script>install_script.qs</Script>
+</Package>

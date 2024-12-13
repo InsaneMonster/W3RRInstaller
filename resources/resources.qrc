@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="patreon.png">images/patreon_wordmark_small.png</file>
+        <file alias="paypal.png">images/paypal_icon_small.png</file>
+        <file alias="human_cc.png">images/rereforged_human_background_notext.png</file>
+        <file alias="nightelf_cc.png">images/rereforged_nightelf_background_notext_desat.png</file>
+        <file alias="orc_cc.png">images/rereforged_orc_background_notext_desat.png</file>
+        <file alias="prologue_cc.png">images/rereforged_prologue_background_notext.png</file>
+        <file alias="undead_cc.png">images/rereforged_undead_background_notext.png</file>
+    </qresource>
+</RCC>

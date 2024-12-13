@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Exodus of the Horde Assets</DisplayName>
+    <Description>Install the asset required by Warcraft III Re-Reforged Prologue campaign. Install this is you plan to play Warcraft III Re-Reforged: Exodus of the Horde.</Description>
+    <Version>1.0</Version>
+    <ReleaseDate>2024-04-15</ReleaseDate>
+	<Default>true</Default>
+	<SortingPriority>80</SortingPriority>
+	<Script>install_script.qs</Script>
+</Package>

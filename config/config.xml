@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Warcraft III Re-Reforged Assets</Name>
+    <Version>1.0.0</Version>
+    <Title>Warcraft III Re-Reforged Assets</Title>
+    <Publisher>InsaneMonster</Publisher>
+	
+	<ProductUrl>https://www.patreon.com/insanemonster</ProductUrl>
+	<InstallerApplicationIcon>app_icon</InstallerApplicationIcon>
+	<InstallerWindowIcon>window_icon.png</InstallerWindowIcon>
+	<Watermark>logo.png</Watermark>
+	<Banner>banner.png</Banner>
+	
+	<WizardStyle>Modern</WizardStyle>
+	
+	<TitleColor>#FFFFFF</TitleColor>
+	
+	<WizardShowPageList>false</WizardShowPageList>
+	<PersistentLocalCache>false</PersistentLocalCache>
+	<CreateLocalRepository>false</CreateLocalRepository>
+	<RemoveTargetDir>false</RemoveTargetDir>
+	<MaintenanceToolName>W3RRUninstaller</MaintenanceToolName>
+	<TargetConfigurationFile>w3rr_config.xml</TargetConfigurationFile>
+	
+	<StartMenuDir>Warcraft III Re-Reforged</StartMenuDir>
+    <TargetDir>@ApplicationsDir@/Warcraft III</TargetDir>
+	
+	<WizardDefaultWidth>840</WizardDefaultWidth>
+	<WizardDefaultHeight>780</WizardDefaultHeight>
+	<WizardMinimumWidth>840</WizardMinimumWidth>
+	<WizardMinimumHeight>780</WizardMinimumHeight>
+	<ControlScript>control_script.qs</ControlScript>
+	
+	<Translations>
+		<Translation>ifw_en</Translation>
+		<Translation>qt_en</Translation>
+	</Translations>
+</Installer>

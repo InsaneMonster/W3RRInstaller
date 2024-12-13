@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Shared Assets</DisplayName>
+    <Description>Install the assets required by all Warcraft III Re-Reforged campaigns. This package is always installed.</Description>
+    <Version>1.0</Version>
+    <ReleaseDate>2024-11-30</ReleaseDate>
+	<ForcedInstallation>true</ForcedInstallation>
+	<SortingPriority>90</SortingPriority>
+    <Script>install_script.qs</Script>
+    <UserInterfaces>
+        <UserInterface>campaigns_page.ui</UserInterface>
+    </UserInterfaces>
+</Package>

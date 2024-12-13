@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Allow Local Files</DisplayName>
+    <Description>Update the Windows registry to allow Warcraft III to load files in the _retail_ folder. It requires UAC rights.</Description>
+    <Version>1.0</Version>
+    <ReleaseDate>2024-11-30</ReleaseDate>
+	<ForcedInstallation>true</ForcedInstallation>
+	<SortingPriority>100</SortingPriority>
+	<RequiresAdminRights>true</RequiresAdminRights>
+	<Script>install_script.qs</Script>
+</Package>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Path of the Damned Assets</DisplayName>
+    <Description>Install the asset required by Warcraft III Re-Reforged Undead campaign. Install this is you plan to play Warcraft III Re-Reforged: Path of the Damned.</Description>
+    <Version>1.0</Version>
+    <ReleaseDate>2024-04-15</ReleaseDate>
+	<Default>true</Default>
+	<SortingPriority>60</SortingPriority>
+	<Script>install_script.qs</Script>
+</Package>
